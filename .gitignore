@@ -1,0 +1,65 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+*log.gz
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor and OS-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Build and distribution directories
+dist/
+build/
+
+# Coverage and testing output
+coverage/
+*.lcov
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Lock files
+*.lock
+
+# Debug
+*.pid
+*.seed
+*.pid.lock
+
+# Output from npm pack
+*.tgz
+
+# Optional cache files
+.npm/
+.nvm/
+.cache/
+.pnp/
+.pnp.js
+
+# Miscellaneous
+.eslintcache
+.parcel-cache
+.stylelintcache
+*.log
+*.out
+*.patch
